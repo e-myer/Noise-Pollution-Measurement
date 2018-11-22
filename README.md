@@ -3,7 +3,10 @@ This is the GitHub Repository for the Noise Pollution Measurement device \
 Please visit www.noisepollution.fablabdhaka.com to know more about the project\
 \
 The current hardware and software versions we are using is ["Vervet"](/Hardware Designs/Vervet/) page for details. \
-The current model we are using is "Flat"
+The current model we are using is "Flat" \
+
+Noise-Pollution-Measurement/Hardware Designs/Vervet/ \
+[Vervet](Hardware Designs/Vervet)
 
 This is the Github repository for the noise pollution device by "Awaaj Koto?", here you will find everything you need to create you own noise measuring device, including the code, curcuit design, and the 3D model \
 \
