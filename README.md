@@ -1,6 +1,6 @@
 # Noise-Pollution-Measurement
 This is the GitHub Repository for the Noise Pollution Measurement device by "Awaaj Koto?" \
-Please visit www.noisepollution.fablabdhaka.com to know more about the project
+Visit www.noisepollution.fablabdhaka.com to know more about the project
 
 The current hardware and software versions we are using is "Vervet" \
 The current casing we are using is "Flat" 
