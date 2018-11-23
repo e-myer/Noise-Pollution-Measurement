@@ -5,7 +5,7 @@ Please visit www.noisepollution.fablabdhaka.com to know more about the project
 The current hardware and software versions we are using is "Vervet" \
 The current casing we are using is "Flat" 
 
-## List of components required and where to get them
+## List of components required
 
 ## Electronics:
 
