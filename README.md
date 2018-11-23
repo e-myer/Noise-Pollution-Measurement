@@ -32,9 +32,9 @@ Link: https://www.techshopbd.com/product-categories/sound/1261/grove-loudness-se
 
 ## Casing:
 
-- Casing Bottom
-- Casing Top Shelf
-- Casing Cover 
+- **Casing Bottom**
+- **Casing Top Shelf**
+- **Casing Cover** 
 
 **The parts of the casing can be 3D printed at home or by one of these services:**
 
