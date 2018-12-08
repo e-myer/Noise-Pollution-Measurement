@@ -2,8 +2,9 @@
 This is the GitHub Repository for the Noise Pollution Measurement device by "Awaaj Koto?" \
 Visit www.noisepollution.fablabdhaka.com to know more about the project
 
-The current hardware and software versions we are using is "Vervet" \
-The current casing we are using is "Flat" 
+The current hardware and software versions we are using is ["Vervet"](https://github.com/AmirSamir92/Noise-Pollution-Measurement/tree/master/Hardware/Vervet) \
+The current casing we are using is ["Flat"](https://github.com/AmirSamir92/Noise-Pollution-Measurement/tree/master/Casing/Print_Ready/Flat)
+
 
 ## List of components required
 
@@ -61,31 +62,3 @@ Link: https://www.techshopbd.com/product-categories/sound/1261/grove-loudness-se
 - Oisin Maniya Hiya Mahbub
 - Najmus Bappy
 - Anas Arham
-
-[The text to display](./Noise-Pollution-Measurement/Hardware Designs/Vervet/Dummy file)
-
-[The text to display](./Hardware Designs/Vervet/Dummy file)
-
-[The text to display](./Noise-Pollution-Measurement/Hardware Designs/Vervet)
-
-[The text to display](./Hardware Designs/Vervet)
-
-[The text to display](/Noise-Pollution-Measurement/Hardware Designs/Vervet/Dummy file)
-
-[The text to display](/Hardware Designs/Vervet/Dummy file)
-
-[The text to display](/Noise-Pollution-Measurement/Hardware Designs/Vervet)
-
-[The text to display](Hardware Designs/Vervet)
-
-[The text to display](Noise-Pollution-Measurement/Hardware Designs/Vervet/Dummy file)
-
-[The text to display](Hardware Designs/Vervet/Dummy file)
-
-[The text to display](Noise-Pollution-Measurement/Hardware Designs/Vervet)
-
-[The text to display](Hardware Designs/Vervet)
-
-[The text to display](./Noise-Pollution-Measurement/Hardware Designs/Vervet/Dummy file.html)
-
-[The text to display](https://github.com/AmirSamir92/Noise-Pollution-Measurement/tree/master/Casing/Draft) 
