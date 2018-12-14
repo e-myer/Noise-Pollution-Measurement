@@ -33,8 +33,8 @@ Link: https://www.techshopbd.com/product-categories/sound/1261/grove-loudness-se
 
 ## Casing:
 
-- **Casing Bottom**
-- **Casing Top Shelf**
+- ["**Casing Bottom**"](https://github.com/AmirSamir92/Noise-Pollution-Measurement/blob/master/Casing/Print_Ready/Flat/3d%20model%20bottom.stl)
+- ["**Casing Shelf**"](https://github.com/AmirSamir92/Noise-Pollution-Measurement/blob/master/Casing/Print_Ready/Flat/3d%20model%20top.stl)
 - **Casing Cover** 
 
 **The parts of the casing can be 3D printed at home or by one of these services:**
