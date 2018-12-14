@@ -3,7 +3,7 @@ This is the GitHub Repository for the Noise Pollution Measurement device by "Awa
 Visit www.noisepollution.fablabdhaka.com to know more about the project
 
 The current hardware and software versions we are using is ["Vervet"](https://github.com/AmirSamir92/Noise-Pollution-Measurement/tree/master/Hardware/Vervet) \
-The current casing we are using is ["Flat"](https://github.com/AmirSamir92/Noise-Pollution-Measurement/tree/master/Casing/Print_Ready/Flat)
+The current casing version we are using is ["Flat"](https://github.com/AmirSamir92/Noise-Pollution-Measurement/tree/master/Casing/Print_Ready/Flat)
 
 
 ## List of components required
