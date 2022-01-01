@@ -61,4 +61,3 @@ Link: https://www.techshopbd.com/product-categories/sound/1261/grove-loudness-se
 - Tabinda Rahman Chowdhury
 - Oisin Maniya Hiya Mahbub
 - Najmus Bappy
-- Anas Arham
